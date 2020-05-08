@@ -14,3 +14,17 @@
 a{
 	color: #292d32;
 }
+
+.snap{
+	margin-bottom: 10px;
+	cursor: pointer;
+}
+
+.snap:hover {
+	opacity: 0.7;
+}
+
+.description{
+	 font-family: "Times New Roman";
+	 text-align: center;
+}
